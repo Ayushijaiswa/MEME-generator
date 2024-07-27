@@ -1,0 +1,13 @@
+.navbar-component{
+width: 550px;
+height: 65px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+display: flex;
+justify-content: space-between;
+
+}
+img{
+    
+}
